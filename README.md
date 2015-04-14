@@ -14,7 +14,7 @@ manage the debug log!
 >       <dependency>
          <groupId>com.toaker.common</groupId>
          <artifactId>tlog</artifactId>
-		 <url>http://www.svmeng.com:8081/nexus/content/repositories/releases</url>
+		 <url>http://oss.svmeng.com:8081/nexus/content/repositories/releases</url>
          <type>aar</type>
          <version>1.0.0</version>
       </dependency>
