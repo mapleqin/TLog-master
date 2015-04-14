@@ -1,17 +1,17 @@
 # TLog-master
-Used in the project development Debug log print management!
+manage the debug log!
 
 # Reference
 
 - gradle <br/>
 	
->      "dependencies {
+>       dependencies {
     	  compile 'com.toaker.common:tlog:1.0.0@aar'
-	  }"	
+	  }	
 
 - maven<br/>
 
->     <dependency>
+>       <dependency>
          <groupId>com.toaker.common</groupId>
          <artifactId>tlog</artifactId>
 		 <url>http://www.svmeng.com:8081/nexus/content/repositories/releases</url>
