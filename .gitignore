@@ -18,3 +18,4 @@
 gradle.properties
 gradle
 /.idea/
+profiles_settings.xml
