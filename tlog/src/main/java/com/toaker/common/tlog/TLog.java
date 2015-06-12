@@ -18,12 +18,9 @@ package com.toaker.common.tlog;
 import android.util.Log;
 
 /**
- * Decorator for TLog-master
  *
- * @author Toaker [Toaker](ToakerQin@gmail.com)
- *         [Toaker](http://www.toaker.com)
- * @Description:
- * @Time Create by 2015/4/14 13:29
+ * author soulwolf
+ * Create by 2015/4/14 13:29
  */
 public final class TLog {
 

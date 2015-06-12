@@ -4,3 +4,6 @@
 /.idea/libraries
 .DS_Store
 /build
+/gradle.properties
+gradle.properties
+gradle
